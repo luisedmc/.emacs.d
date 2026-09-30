@@ -1,0 +1,13 @@
+.DS_Store
+
+elpa/
+
+quicklisp/
+
+custom.el
+history
+recentf.eld
+places.eld
+auto-save-list/
+eln-cache/
+transient/
